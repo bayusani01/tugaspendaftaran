@@ -1,0 +1,8 @@
+.container
+{
+    position: relative;
+    width: 400px;
+    min-height: 600px;
+    background-color: rgb(14, 120, 28) (249, 253, 253, 0.952);
+    box-shadow: #00000093;
+}
